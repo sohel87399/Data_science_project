@@ -1,0 +1,32 @@
+Analysis Summary
+================
+
+A. RISK metrics (Std Dev of PnL):
+fg_class
+Neutral           517.122220
+Extreme Greed     766.828294
+Fear              935.355438
+Greed            1116.028390
+Extreme Fear     1136.056091
+Name: Closed PnL, dtype: float64
+
+B. AvG Position Size:
+fg_class
+Extreme Fear     5349.731843
+Extreme Greed    3112.251565
+Fear             7816.109931
+Greed            5736.884375
+Neutral          4782.732661
+Name: Size USD, dtype: float64
+
+C. Win Rate:
+fg_class
+Extreme Fear     0.370607
+Extreme Greed    0.464943
+Fear             0.420768
+Greed            0.384828
+Neutral          0.396991
+dtype: float64
+
+D. Total PnL:
+10254486.949306
